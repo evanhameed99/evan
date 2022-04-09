@@ -1,5 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Odia:wght@600&display=swap');
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Anek Odia', sans-serif;
+}
 .App {
   text-align: center;
+  height: 100vh;
+  background-color: #1e1e1e;
+  padding: 0;
+  margin: 0;
+}
+
+
+.text {
+  color: #fafafa;
+  /* font-size: 2rem; */
+  font-weight: bold;
+  /* margin-top: 1rem; */
+}
+
+.name{
+  color: #fafafa;
+  font-size: 3rem;
+  font-weight: bold;
+  padding-top: 6rem;
+  text-align: center;
+}
+
+
+.description {
+  color: #fafafa;
+  padding: 1rem 7rem;
+  text-align: left;
+}
+
+@media only screen and (max-width: 600px) {
+  .description {
+    padding: 0rem 1rem;
+  }
+  .name{
+    color: #fafafa;
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding-top: 1rem;
+    text-align: center;
+  }
 }
 
 .App-logo {
