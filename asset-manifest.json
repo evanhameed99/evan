@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/evan/static/css/main.97ceeaa2.css",
+    "main.js": "/evan/static/js/main.512f5dde.js",
+    "index.html": "/evan/index.html",
+    "main.97ceeaa2.css.map": "/evan/static/css/main.97ceeaa2.css.map",
+    "main.512f5dde.js.map": "/evan/static/js/main.512f5dde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97ceeaa2.css",
+    "static/js/main.512f5dde.js"
+  ]
+}
