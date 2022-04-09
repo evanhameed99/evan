@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/evan/static/css/main.97ceeaa2.css",
-    "main.js": "/evan/static/js/main.512f5dde.js",
+    "main.js": "/evan/static/js/main.99da6c37.js",
     "index.html": "/evan/index.html",
     "main.97ceeaa2.css.map": "/evan/static/css/main.97ceeaa2.css.map",
-    "main.512f5dde.js.map": "/evan/static/js/main.512f5dde.js.map"
+    "main.99da6c37.js.map": "/evan/static/js/main.99da6c37.js.map"
   },
   "entrypoints": [
     "static/css/main.97ceeaa2.css",
-    "static/js/main.512f5dde.js"
+    "static/js/main.99da6c37.js"
   ]
 }
