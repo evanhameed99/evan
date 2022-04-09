@@ -18,7 +18,8 @@ Highly knowledged working on SaaS products. <br/> <br/>Interested in everything 
 
        <div style={{paddingTop: '2rem'}}>
        <SocialIcon url="https://github.com/evanhameed99" network='github' bgColor='white' style={{marginRight:'20px'}}/>   
-       <SocialIcon url="https://www.linkedin.com/in/evan-hameed-2508a01b0/"  network='linkedin' bgColor='white'/>   
+       <SocialIcon url="https://www.linkedin.com/in/evan-hameed-2508a01b0/"  network='linkedin' bgColor='white' style={{marginRight:'20px'}}/>   
+       <SocialIcon url="mailto:evanhameed0@gmail.com"  network='email' bgColor='white'/>   
        </div>
         
 
